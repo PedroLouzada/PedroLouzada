@@ -1,6 +1,6 @@
 # Welcome to my Profile 😁
 
-![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLouzada&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLouzada)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLouzada&layout=compact&langs_count=6&theme=midnight-purple)
 
