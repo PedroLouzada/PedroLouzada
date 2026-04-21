@@ -1,4 +1,4 @@
-# Welcome to my Profile 😁
+# Welcome to my Profile
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroLouzada&show_icons=true&theme=midnight-purple)
 
@@ -9,7 +9,6 @@
 ## About Me
 
 - 🎓 Student at **42 Lisboa**
-- 💻 Passionate about **C programming**
 - 🌐 Bilingual: **Portuguese / English**
 - 🥊 Boxing Lover
 
